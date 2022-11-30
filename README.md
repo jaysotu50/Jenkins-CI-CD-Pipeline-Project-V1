@@ -184,3 +184,6 @@
     - Install all plugings without restart 
 
 18) Confirm and make test your installations/setups  
+
+
+19) we need to automate build now by replacing it with webhook integration
